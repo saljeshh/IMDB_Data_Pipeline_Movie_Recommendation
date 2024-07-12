@@ -3,7 +3,7 @@
 ##### Architecture
 
 <p align="center">
-    <img src="./dashboard/imdb_architecture.png" width="100%">
+    <img src="./imdb_architecture.png" width="100%">
 </p>
 
 #### Dashboard View
